@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hào Ngô - Java Development - Software Developer
 - 👀 I’m interested in English, Developer, Cryto, BlockChain, Machine Learning
-- 🌱 I’m currently learning infomation technology at FPT Polytechnic
 - 📫 How to reach me: ngovungochao14112003@gmail.com - Phone: (+84) 989031433
 
 <!---
